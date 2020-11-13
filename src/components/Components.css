@@ -1,0 +1,39 @@
+.agecss{
+    width: 60%;
+    margin: auto;
+    margin-top: 0;
+    border: 1px solid #eee;
+    border-style:solid;
+    box-shadow: 0 0px 0px #ccc;
+    padding: 16px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+}
+
+.decision{
+    width: 40%;
+    margin: auto;
+    border: 4px solid white;
+    border-style: solid;
+    box-shadow: 0px 0px 0px #ccc;
+    padding: 16px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    
+}
+
+.container{
+    text-align: center;
+    padding: 4.8%;
+
+}
+
+.col{
+    color: rgb(95, 95, 95);
+}
+
